@@ -4,6 +4,8 @@ Döviz sitesinden istenen döviz kurunu çekip sunucuda ayarlanan crontab'e gör
 tweepy ve request modüllerini kurmanız gerekli.
 
 Linux kullanıcıları için terminalden,
-   #sudo apt-get install python3-pip
-   #pip3 install requests
-   #pip3 install tweepy
+'''sh
+sudo apt-get install python3-pip
+pip3 install requests
+pip3 install tweepy
+'''
